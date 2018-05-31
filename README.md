@@ -32,7 +32,7 @@ Directories:
 Angle test contains some images that were used for testing how angle of a sign affects detection accuracy, because Viola–Jones object detection algorythm highly depends on angles of positive images. It works best within 30 degrees range. 
 Sample images contains positive images of signs.
 Test images cointains images that were used for testing detection.
-Learning screenshots are some screenshots of cascade classifier process, cascades with haar features took 5-7 days for training, with lbp features - 12-26 hours (but this time hardly depends on your hardware).
+Learning screenshots are some screenshots of cascade classifier process, cascades with haar features took 5-7 days for training, with lbp features - 12-26 hours (but this time strongly depends on your hardware).
 Process screenshots are screenshots of program detecting signs from image and webcam feed.
 
 Negative images can be downloaded from here: https://yadi.sk/d/Io4c7Jq93WktEq
