@@ -37,7 +37,6 @@ Process screenshots are screenshots of program detecting signs from image and we
 
 Negative images can be downloaded from here: https://yadi.sk/d/Io4c7Jq93WktEq
 
-Some pictures of program working:
 ![screenshot1](https://github.com/Kollais/Haar-cascade-traffic-signs/blob/master/Process%20screenshots/c2.jpg)
 ![screenshot2](https://github.com/Kollais/Haar-cascade-traffic-signs/blob/master/Process%20screenshots/sk1.jpg)
 
